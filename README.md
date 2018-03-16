@@ -1,2 +1,2 @@
 # deep-learning
-# Here I will play with different types of neural networks
+I will play with different types of neural networks
