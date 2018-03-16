@@ -1,7 +1,8 @@
+# Implementation of stochastic gradient descent algorithm for a multilayer neural network.
+# Code is strongly oriented on Michael Nielsens great book http://neuralnetworksanddeeplearning.com/.
+
 import numpy as np
 import random
-import os
-os.chdir('D:\\Python\\NeuralNetwork\\')
 
 class neuralnet:
 
